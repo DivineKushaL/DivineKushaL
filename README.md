@@ -1,5 +1,13 @@
-## Hi there 👋
+## Welcome to My Github Profile
 
+Hi there ! I'm Kushal Patel, a pre-final year-ite from the Indian Institute of Technology, Guwahati. I have my major in Electronics and Communications Engineering and a minor in Computer Science and Engineering.
+
+## Projects
+
+Here are some of my notable projects :
+- [NexChat](https://github.com/DivineKushaL/chat-app)
+- [Zcoder](https://github.com/shubhangshirolawala/Zcoder)
+- [WeatherSphere](https://github.com/DivineKushaL/weather_project)
 <!--
 **DivineKushaL/DivineKushaL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
