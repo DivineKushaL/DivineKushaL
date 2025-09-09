@@ -5,8 +5,8 @@ Hi there ! I'm Kushal Patel, a pre-final year-ite from the Indian Institute of T
 ## Projects
 
 Here are some of my notable projects :
-- [NexChat](https://github.com/DivineKushaL/chat-app)
 - [Zcoder](https://github.com/shubhangshirolawala/Zcoder)
+- [NexChat](https://github.com/DivineKushaL/chat-app)
 - [WeatherSphere](https://github.com/DivineKushaL/weather_project)
 <!--
 **DivineKushaL/DivineKushaL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
