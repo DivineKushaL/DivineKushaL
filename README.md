@@ -1,6 +1,6 @@
 ## Welcome to My Github Profile
 
-Hi there ! I'm Kushal Patel, a pre-final year-ite from the Indian Institute of Technology, Guwahati. I have my major in Electronics and Communications Engineering and a minor in Computer Science and Engineering.
+Hi there ! I'm Kushal Patel, a final year-ite from the Indian Institute of Technology, Guwahati. I have my major in Electronics and Communications Engineering and a minor in Computer Science and Engineering.
 
 ## Projects
 
